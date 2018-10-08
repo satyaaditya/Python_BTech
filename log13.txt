@@ -1,0 +1,10 @@
+2017-05-16 11:08:27 - DEBUG - debug message!
+2017-05-16 11:08:27 - INFO - info message!
+2017-05-16 11:08:27 - ERROR - error message
+2017-05-16 11:08:27 - CRITICAL - critical message
+2017-05-16 11:08:27 - WARNING - warning message
+2017-05-16 12:53:17 - DEBUG - debug message!
+2017-05-16 12:53:17 - INFO - info message!
+2017-05-16 12:53:17 - ERROR - error message
+2017-05-16 12:53:17 - CRITICAL - critical message
+2017-05-16 12:53:17 - WARNING - warning message
